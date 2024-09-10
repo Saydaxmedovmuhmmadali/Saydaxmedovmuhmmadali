@@ -1,7 +1,7 @@
 # About me
-<p><h2>👋🏻Hey! I'm Otajon Bozorboyev. I'm Backend developer.</h2></p>
+<p><h2>👋🏻Hey! I'm Muhammadali Saydaxmedov. I'm Backend developer.</h2></p>
 
-- Telegram:                           [https://t.me/Sayda_xmedov]https://t.me/Sayda_xmedov)
+- Telegram:                           [https://t.me/Sayda_xmedov]
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,)](https://skillicons.dev)
 
